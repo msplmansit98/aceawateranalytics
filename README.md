@@ -10,3 +10,6 @@
 1.  VAR
 1.  FB Prophet
 1.  LSTM
+
+**Points for further research**
+1. Climate in Italy (Correlation between temperature and rainfall)
