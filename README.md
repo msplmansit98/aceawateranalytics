@@ -8,7 +8,7 @@
 
 **Current techniques:**
 1.  VAR
-1.  FB Prophet
+1.  FB Prophet 
 1.  LSTM
 
 **Points for further research**
@@ -16,7 +16,8 @@
 1. Reasearch the measurements of water level 
 
 **Resources**
-1. https://xeno.graphics/
+1.  https://xeno.graphics/
+1.  FB prophet example-https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet
 
 **Map Links**
 1.  Auser- https://goo.gl/maps/zT5wierAWQfoRPtQA
