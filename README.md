@@ -19,6 +19,7 @@
 1.  https://xeno.graphics/
 1.  FB prophet example-https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet
 1.  LSTM example- https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-
+1.  Time series prediciton- https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
 
 **Map Links**
 1.  Auser- https://goo.gl/maps/zT5wierAWQfoRPtQA
