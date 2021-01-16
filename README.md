@@ -18,6 +18,7 @@
 **Resources**
 1.  https://xeno.graphics/
 1.  FB prophet example-https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet
+1.  LSTM example- https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-
 
 **Map Links**
 1.  Auser- https://goo.gl/maps/zT5wierAWQfoRPtQA
