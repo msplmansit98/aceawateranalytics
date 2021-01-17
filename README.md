@@ -21,6 +21,7 @@
 1.  LSTM example- https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-
 1.  Time series prediciton- https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
 1.  For data description- https://www.kaggle.com/maksymshkliarevskyi/acea-smart-water-eda-prediction
+1.  For data conclusions- https://www.kaggle.com/michau96/how-virtual-trees-can-save-water-in-italy#1.-Aquifer-%22Auser%22
 
 **Map Links**
 1.  Auser- https://goo.gl/maps/zT5wierAWQfoRPtQA
