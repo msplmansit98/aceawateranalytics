@@ -9,11 +9,18 @@
 **Current techniques:**
 1.  VAR
 1.  FB Prophet 
-1.  LSTM
+1.  LSTM**
 
 **Points for further research**
-1. Climate in Italy (Correlation between temperature and rainfall)
+1. Climate in Italy (Correlation between temperature and rainfall)- done
 1. Reasearch the measurements of water level 
+
+**Things to do**
+1.  Violin plots for getting a clear idea of depth of ground water
+1.  Coding map on python
+1.  Using PCA- https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+1.  Scatter plot(Depth vs rainfall) of mean on months(points)
+  1.  Expected conclusions- Here we find that the rainfall is high during nov, dec, jan, feb and the depth to groundwater level is high in the preceeding 3 months March, April and May. May be this is due to the lag effect.
 
 **Resources**
 1.  https://xeno.graphics/
@@ -22,6 +29,8 @@
 1.  Time series prediciton- https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
 1.  For data description- https://www.kaggle.com/maksymshkliarevskyi/acea-smart-water-eda-prediction
 1.  For data conclusions- https://www.kaggle.com/michau96/how-virtual-trees-can-save-water-in-italy#1.-Aquifer-%22Auser%22
+1.  For feature selections on ML models(including PCA)- https://www.kaggle.com/iwasnothing/river-level-detection-using-lstm
+1.  Best way of generalizing- https://www.kaggle.com/iwasnothing/river-level-detection-using-lstm/notebook
 
 **Map Links**
 1.  Auser- https://goo.gl/maps/zT5wierAWQfoRPtQA
