@@ -19,8 +19,7 @@
 1.  Violin plots for getting a clear idea of depth of ground water
 1.  Coding map on python
 1.  Using PCA- https://builtin.com/data-science/step-step-explanation-principal-component-analysis
-1.  Scatter plot(Depth vs rainfall) of mean on months(points)
-  1.  Expected conclusions- Here we find that the rainfall is high during nov, dec, jan, feb and the depth to groundwater level is high in the preceeding 3 months March, April and May. May be this is due to the lag effect.
+1.  Scatter plot(Depth vs rainfall) of mean on months(points).   Expected conclusions- Here we find that the rainfall is high during nov, dec, jan, feb and the depth to groundwater level is high in the preceeding 3 months March, April and May. May be this is due to the lag effect.
 
 **Resources**
 1.  https://xeno.graphics/
