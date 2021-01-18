@@ -38,3 +38,14 @@
 1.  Petrignano- https://goo.gl/maps/4tDr1SWVaai98r9H8
 1.  Luco- https://goo.gl/maps/xBfYivHUaCoPJULj7
 1.  Doganella- https://goo.gl/maps/2Mw6xm33xTq3PU979
+
+**Water Bodies**
+Aquifer_Auser
+Water_Spring_Amiata- Dheeraj
+Aquifer_Petrignano- Mansit
+Aquifer_Doganella
+Aquifer_Luco 
+River_Arno-Vijay and Mansit
+Lake_Bilancino-Vijay and Mansit
+Water_Spring_Madonna_di_Canneto- Dheeraj
+Water_Spring_Lupa- Dheeraj
