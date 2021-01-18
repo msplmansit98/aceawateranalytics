@@ -1,0 +1,10 @@
+There are two types of aquifier- confined and unconfined.
+
+A confined aquifer is an aquifer below the land surface that is saturated with water. Layers of impermeable material are both above and below the aquifer, causing it to be under pressure so that when the aquifer is penetrated by a well, the water will rise above the top of the aquifer.
+
+A water-table--or unconfined--aquifer is an aquifer whose upper water surface (water table) is at atmospheric pressure, and thus is able to rise and fall. Water-table aquifers are usually closer to the Earth's surface than confined aquifers are, and as such are impacted by drought conditions sooner than confined aquifers.
+
+Aquifier Dognella
+
+The wells field Doganella is fed by two underground aquifers not fed by rivers or lakes but fed by meteoric infiltration.
+(Meteoric Infiltration- infilterated by rainwater) The upper aquifer is a water table(unconfined aquifier) with a thickness of about 30m. The lower aquifer is a semi-confined artesian(confined) aquifer with a thickness of 50m and is located inside lavas and tufa(a porous rock formed as a deposit from springs or streams specifically ) products. These aquifers are accessed through wells called Well 1, ..., Well 9. Approximately 80% of the drainage volumes come from the artesian aquifer. The aquifer levels are influenced by the following parameters: rainfall, humidity, subsoil, temperatures and drainage volumes.
