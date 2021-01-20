@@ -40,11 +40,11 @@
 1.  Doganella- https://goo.gl/maps/2Mw6xm33xTq3PU979
 
 **Water Bodies**
-1.  Aquifer_Auser
+1.  Aquifer_Auser - Aditya
 1.  Water_Spring_Amiata- Dheeraj
 1.  Aquifer_Petrignano- Mansit
 1.  Aquifer_Doganella
-1.  Aquifer_Luco 
+1.  Aquifer_Luco - Aditya 
 1.  River_Arno-Vijay and Mansit
 1.  Lake_Bilancino-Vijay and Mansit
 1.  Water_Spring_Madonna_di_Canneto- Dheeraj
