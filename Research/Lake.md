@@ -5,4 +5,6 @@ Lago di Bilancino (Lake Bilancino)
 	- Primary inflow source and outflow - Sieve
 	- Surface elevation : 252 m
 	- Surface area : 5 km2 
-  - Volume : 0.07 km3
+        - Volume : 0.07 km3
+	- Created to resolve problems of Florence area hydro system which previously 
+	  had been prone to both flooding and drought 
