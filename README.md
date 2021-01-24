@@ -32,6 +32,7 @@
 1.  For data conclusions- https://www.kaggle.com/michau96/how-virtual-trees-can-save-water-in-italy#1.-Aquifer-%22Auser%22
 1.  For feature selections on ML models(including PCA)- https://www.kaggle.com/iwasnothing/river-level-detection-using-lstm
 1.  Best way of generalizing- https://www.kaggle.com/iwasnothing/river-level-detection-using-lstm/notebook
+1.  For map plotting - https://plotly.com/python/map-subplots-and-small-multiples/
 
 **Map Links**
 1.  Auser- https://goo.gl/maps/zT5wierAWQfoRPtQA
