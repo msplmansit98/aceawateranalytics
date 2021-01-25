@@ -42,11 +42,11 @@
 
 **Water Bodies**
 1.  Aquifer_Auser - Aditya
-1.  Water_Spring_Amiata- Dheeraj
-1.  Aquifer_Petrignano- Mansit
+1.  Water_Spring_Amiata - Dheeraj
+1.  Aquifer_Petrignano - Mansit
 1.  Aquifer_Doganella - Aditya
 1.  Aquifer_Luco (Wait for guidance)
-1.  River_Arno-Vijay and Mansit
-1.  Lake_Bilancino-Vijay and Mansit
-1.  Water_Spring_Madonna_di_Canneto- Dheeraj
-1.  Water_Spring_Lupa- Dheeraj
+1.  River_Arno - Kruthika
+1.  Lake_Bilancino - Vijay
+1.  Water_Spring_Madonna_di_Canneto - Mansit
+1.  Water_Spring_Lupa - Dheeraj
