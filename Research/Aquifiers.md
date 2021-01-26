@@ -19,6 +19,14 @@ The wells field of the **alluvial plain**(alluvial aquifer) between Ospedalicchi
 
 **Alluvial aquifers** are generally shallower than sedimentary and fractured rock aquifers and water levels often fluctuate due to varying recharge and pumping rates. Due to their shallow and unconfined nature, alluvial aquifers are susceptible to contamination and pollution. 
 
+*Output variable*- **Depth to groundwater**
+
+1. seasonal decomposition tells that throughout the year the change in water level ranges 2 meters
+2. Trendline suggest that the level of groundwater has no significant change in recent years
+3. On a annual level, depth of groundwater is positively influenced by the water level in Chiasco river and rainfall of that area
+4. Hydrometry of past 5 months has a +ve correlation with depth to groundwater
+5. On weekly and daily level, the Chiasco river level and hydrometry plays an important role
+
 
 
 ## Aquifer Auser
