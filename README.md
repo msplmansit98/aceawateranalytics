@@ -1,22 +1,20 @@
 # Acea Water Analytics Kaggle Contest
 
 **Current working streams:**
-1.  Cross correlation(Mansit)
-1.  Granger causality(Vijay)
-1.  Fourier fitting(Mansit, Vijay)
-1.  Exploring new techniques(Aditya)
-
-**Current techniques:**
-1.  VAR
-1.  FB Prophet 
-1.  LSTM**
+1.  Keggle kernel working- MS
+1.  Linear Regression,XG Boost -VJ
+1.  Prophet, Light GBM- KS
+1.  Random Forest, LSTM- DJ
+1.  Fixing missing value- VT,MS
+1.  Feature engg.- VT
+1.  Transformation
+1.  Cross validation
 
 **Points for further research**
 1. Climate in Italy (Correlation between temperature and rainfall)- done
 1. Reasearch the measurements of water level 
 
 **Things to do**
-1.  Violin plots for getting a clear idea of depth of ground water
 1.  Coding map on python
 1.  Using PCA- https://builtin.com/data-science/step-step-explanation-principal-component-analysis
 1.  dataframe formation from lags
