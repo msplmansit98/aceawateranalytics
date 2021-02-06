@@ -13,6 +13,7 @@
 **Points for further research**
 1. Climate in Italy (Correlation between temperature and rainfall)- done
 1. Reasearch the measurements of water level 
+1. Using cumsum for feature engineering
 
 **Things to do**
 1.  Coding map on python
