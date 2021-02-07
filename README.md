@@ -32,7 +32,7 @@
 1.  For feature selections on ML models(including PCA)- https://www.kaggle.com/iwasnothing/river-level-detection-using-lstm
 1.  Best way of generalizing- https://www.kaggle.com/iwasnothing/river-level-detection-using-lstm/notebook
 1.  For map plotting - https://plotly.com/python/map-subplots-and-small-multiples/
-1.  For LSTM + VAR - https://www.kaggle.com/apoorvb/when-it-rains-it-pours
+1.  For Feature selection + LSTM + VAR - https://www.kaggle.com/apoorvb/when-it-rains-it-pours
 
 **Map Links**
 1.  Auser- https://goo.gl/maps/zT5wierAWQfoRPtQA
