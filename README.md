@@ -1,14 +1,7 @@
 # Acea Water Analytics Kaggle Contest
 
-**Current working streams:**
-1.  Keggle kernel working- MS
-1.  Linear Regression,XG Boost -VJ
-1.  Prophet, Light GBM- KS
-1.  Random Forest, LSTM- DJ
-1.  Fixing missing value- VT,MS
-1.  Feature engg.- VT
-1.  Transformation
-1.  Cross validation
+**Link to my Kaggle Notebook** - https://www.kaggle.com/code/mansitsuman/let-s-know-our-blue-gold/notebook
+
 
 **Points for further research**
 1. Climate in Italy (Correlation between temperature and rainfall)- done
@@ -41,13 +34,3 @@
 1.  Luco- https://goo.gl/maps/xBfYivHUaCoPJULj7
 1.  Doganella- https://goo.gl/maps/2Mw6xm33xTq3PU979
 
-**Water Bodies**
-1.  Aquifer_Auser - Aditya
-1.  Water_Spring_Amiata - Dheeraj
-1.  Aquifer_Petrignano - Mansit
-1.  Aquifer_Doganella - Aditya
-1.  Aquifer_Luco (Wait for guidance)
-1.  River_Arno - Kruthika
-1.  Lake_Bilancino - Vijay
-1.  Water_Spring_Madonna_di_Canneto - Mansit
-1.  Water_Spring_Lupa - Dheeraj
